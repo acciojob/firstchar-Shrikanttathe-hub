@@ -1,7 +1,7 @@
 function firstChar(text) {
   // your code here
 	if(!text || text.trim() === ' ');
-	return '';
+	return ' ';
 }
 
 // Do not change the code below
